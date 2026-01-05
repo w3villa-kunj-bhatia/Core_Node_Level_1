@@ -1,0 +1,4 @@
+Hello World!
+This is my file
+This data will show in command line
+It also follows \n rules
